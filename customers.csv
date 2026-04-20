@@ -1,0 +1,6 @@
+CustomerID,Name,Email,Region,JoinDate
+C001,John Smith,john@email.com,North,2023-01-15
+C002,Jane Doe,jane@email.com,South,2023-02-20
+C003,Bob Wilson,bob@email.com,East,2023-03-10
+C004,Alice Brown,alice@email.com,West,2023-04-05
+C005,Charlie Davis,charlie@email.com,North,2023-05-12
